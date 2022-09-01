@@ -1,1 +1,1 @@
-script that prints the absolute path name of taking directory
+Task 1. What’s in there?

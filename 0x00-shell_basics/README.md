@@ -1,1 +1,1 @@
-Task 6.Welcome
+script that creates a directory named my_first_directory in the /tmp/ directory

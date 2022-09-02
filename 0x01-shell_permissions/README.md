@@ -1,1 +1,1 @@
-script that switches the current user to the user betty
+Task 1. Who am I

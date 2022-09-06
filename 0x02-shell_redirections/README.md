@@ -1,1 +1,1 @@
-script that displays a confused smiley
+Task 1. Confused smiley
